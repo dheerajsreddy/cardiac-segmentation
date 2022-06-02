@@ -1,5 +1,0 @@
-# Ignore python notebook checkpoints
-.ipynb_checkpoints*
-
-# Ignore dataset folders
-*dataset*
